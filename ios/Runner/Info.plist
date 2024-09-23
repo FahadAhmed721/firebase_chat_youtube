@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Firebase Chat</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>firebase_chat</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>NSCameraUsageDescription</key>
+    <string>Camera Usage</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+    <string>library Usage</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>to access photos</string>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>Microphone Usage</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>The app needs the location</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+		<key>NSAppleMusicUsageDescription</key>
+	<string>We need to use music playback permissions to provide better services</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Timed reminder service requires calendar permissions</string>
+	<key>NSCameraUsageDescription</key>
+	<string>In order for you to take photos or videos to post on Moments, set them as the background of Moments, and access the camera in other scenes to take photos and videos, Phiz needs to apply for camera access permission from you</string>
+	<key>NSContactsUsageDescription</key>
+	<string>In order to access the address book and match and recommend friends in the address book for you, Phiz needs to apply for the address book access permission from you</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Authentication with FaceID</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>In order for you to send location to your friends in "Chat", Phiz needs to request location access permission from you</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>In order for you to send location to your friends in "Chat", Phiz needs to request location access permission from you
+In order for you to send location to your friends in "Chat", Phiz needs to request location access permission from you</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>In order for you to send location to your friends in "Chat", Phiz needs to request location access permission from you</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>In order for you to record sound while shooting video, and use the microphone for recording in other scenes, Phiz needs to give you the microphone access permission</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>In order for you to add pictures and videos in chat or other scenes to your device, Phiz needs to apply for album access permission from you</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>In order for you to view and select pictures and videos in the album to send to friends, set them as chat backgrounds, and select files in the device to send to friends, Phiz needs to apply for album access permission from you</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>When sending voice, we provide relevant voice recognition services.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>CFBundleURLTypes</key>
+          <array>
+               <dict>
+                   <key>CFBundleURLSchemes</key>
+                   <array>
+                   <string>com.googleusercontent.apps.455775855483-u464bimeiqh4v0oorrt0293lkp6g7a12</string>
+                   </array>
+               </dict>
+          </array>
+
+
+</dict>
+</plist>

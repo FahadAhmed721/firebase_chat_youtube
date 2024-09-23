@@ -1,0 +1,1 @@
+enum MessageSecondryType { TEXT, IMAGE }
